@@ -1,0 +1,39 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    display: inline;
+    padding: 8px;
+}
+
+.timeDisplay {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.result {
+    text-align: center;
+    margin-top: 20px;
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.result:hover {
+    background: yellowgreen;
+}
+
+button:hover {
+    background-color: violet;
+}
+
+button:active {
+    background-color: brown;
+}
